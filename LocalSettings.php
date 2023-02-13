@@ -19,7 +19,7 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 ## Uncomment this to disable output compression
 # $wgDisableOutputCompression = true;
 
-$wgSitename = "Hogwarts Legacy Modding";
+$wgSitename = "Hogwarts DB";
 $wgMetaNamespace = "Hogwarts_Legacy_Modding";
 
 ## The URL base path to the directory containing the wiki;
