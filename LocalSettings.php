@@ -54,6 +54,8 @@ $wgEnotifUserTalk = false; # UPO
 $wgEnotifWatchlist = false; # UPO
 $wgEmailAuthentication = true;
 
+$wgForceHTTPS = true;
+
 ## Database settings
 $url = parse_url(getenv("DATABASE_URL"));
 $wgDBtype = "postgres";
