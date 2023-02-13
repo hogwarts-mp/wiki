@@ -30,7 +30,7 @@ $wgMetaNamespace = "Hogwarts_Legacy_Modding";
 $wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://db.hogwarts.mp";
+$wgServer = "https://db.hogwarts.mp";
 
 ## The URL path to static resources (images, scripts, etc.)
 $wgResourceBasePath = $wgScriptPath;
