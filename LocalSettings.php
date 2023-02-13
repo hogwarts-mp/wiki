@@ -124,9 +124,9 @@ $wgGroupPermissions['*']['edit'] = false;
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, e.g. 'vector' or 'monobook':
-$wgDefaultSkin = "vector";
+$wgDefaultSkin = "timeless";
 
 # End of automatically generated settings.
 # Add more configuration options below.
 
-wfLoadSkin( 'Vector' );
+wfLoadSkin( 'Timeless' );
